@@ -12,3 +12,7 @@ def sum(arg):
 
 def restar():
     pass
+
+
+def multiplicar():
+    pass
