@@ -3,7 +3,7 @@
 # coauthor: Maritza Esparza
 
 def sum(arg):
-    total = 0
+    total = 1
     for val in arg:
         total += val
     return total
