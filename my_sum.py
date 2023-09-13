@@ -16,3 +16,6 @@ def restar():
 
 def multiplicar():
     pass
+
+def say_message():
+    pass
