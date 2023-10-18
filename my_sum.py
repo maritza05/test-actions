@@ -23,3 +23,6 @@ def multiplicar():
 
 def say_message():
     pass
+
+def bye():
+    pass
