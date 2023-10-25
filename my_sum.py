@@ -26,3 +26,6 @@ def say_message():
 
 def bye():
     pass
+
+def hello():
+    pass
